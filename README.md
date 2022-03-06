@@ -9,8 +9,6 @@
 ⟹ Extend MVP Site
 
 ## Description
-⟹ Write a clear description of your hackathon entry.  
-
   - To add a search feature to MVP site for searching the publications and blogs of MVPs
   - The problem to be solved was getting the content of the blogs and extracting the key phrases and searchable content from Html pages of the blogs
     - By making use of Azure Cognitive Search and AI enrichments reading html blobs from an Azure Storage Account
@@ -24,8 +22,6 @@ _You can alternately paste a [link here](#docs) to a document within this repo c
 
 
 ## Pre-requisites and Dependencies
-
-⟹ Does your module rely on other Sitecore modules or frameworks?
 
 - Sitecore Rendering Host
 - Azure Cognitive Search Service
