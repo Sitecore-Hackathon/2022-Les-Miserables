@@ -1,4 +1,15 @@
-# 🥇 Extending Sitecore MVP Program Site
+[01:28] Miguel Minoldo
+![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
+# Sitecore Hackathon 2022- MUST READ: **[Submission requirements](SUBMISSION_REQUIREMENTS.md)**
+- [Entry form template](ENTRYFORM.md)
+- [Starter kit instructions](STARTERKIT_INSTRUCTIONS.md)### ⟹
+
+# Team Les Miserable
+
+- Miguel Minoldo
+- Masoud Ahmadi
+- Ehsan Aslani
+
 
 # 💗 Contributions
 
