@@ -1,0 +1,41 @@
+﻿---
+ID: "4a9b9e59-cc6b-43e7-97eb-fb196fd27fd3"
+Parent: "64f31e3a-2040-4e69-b9a7-6830cbe669d2"
+Template: "ad9c7837-8660-4360-ba2b-7addf4163685"
+Path: /sitecore/content/MvpSite/MVP Repository/People/Masoud Ahmadi
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "022de4c6-82cf-437c-9424-2fddf1a94f68"
+      Hint: First Name
+      Value: Masoud
+    - ID: "046fb914-f54f-4e3a-85e8-8ea5e3b7db7f"
+      Hint: Country
+      Value: "{7D0E026D-AE2A-4BCB-A7E9-65D4A672F814}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220305T112846Z
+    - ID: "5abccf54-b9a1-4c33-91a4-473280644299"
+      Hint: Introduction
+      Value: Yet another MVP
+    - ID: "8561a65d-741e-4ead-985e-ea1880e196a9"
+      Hint: Email
+      Value: masoud.ahmadi@valtech.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7402621c-b918-40bd-87a0-53a3d3e2ad7c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c0b5d514-19c3-430e-9a5a-42763211573d"
+      Hint: Last Name
+      Value: Ahmadi
+    - ID: "c5cb665e-d9d7-4130-8694-8cf34380f2ca"
+      Hint: Awards
+      Value: "{3B7C5749-2C62-4268-902F-78D01525513B}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220305T202154Z

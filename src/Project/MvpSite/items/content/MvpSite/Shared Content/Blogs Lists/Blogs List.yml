@@ -1,0 +1,37 @@
+﻿---
+ID: "9a8721f1-270b-47a4-b61a-559b55f46f8e"
+Parent: "56071ce9-e424-481a-8b5e-24f35503167c"
+Template: "dc56fccf-9106-4b99-89c1-6f534e1255eb"
+Path: /sitecore/content/MvpSite/Shared Content/Blogs Lists/Blogs List
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d0373ff-cb52-4c32-9d91-fe229dd7d228"
+      Hint: BlogsDescription
+      Value: Sitecore MVP Articles
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220305T125202Z
+    - ID: "25c0b98b-6e94-4c06-b326-382d6cc4f118"
+      Hint: BlogsTitle
+      Value: Search blogs
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bb409044-e21e-4376-9dc7-22de7a6a5e52"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220305T145313Z

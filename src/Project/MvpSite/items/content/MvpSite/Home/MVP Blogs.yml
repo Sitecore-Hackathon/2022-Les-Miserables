@@ -1,0 +1,48 @@
+﻿---
+ID: "2501a6e6-63ec-4c58-ba2f-3c074f35a48a"
+Parent: "94de9ac3-a9f7-40ab-ae90-acda364b9c40"
+Template: "a054184c-3b20-4c2b-ab04-c8a03acd5522"
+Path: /sitecore/content/MvpSite/Home/MVP Blogs
+BranchID: "ef8dd6f4-1bb8-4831-a1a6-defa3594051a"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A287B050-9C4E-48E7-B37A-4471F04A088C}"
+          p:after="*[1=2]"
+          s:ds="{9A8721F1-270B-47A4-B61A-559B55F46F8E}"
+          s:id="{873DC753-D0A6-4D67-BC7C-72B97B098814}"
+          s:par=""
+          s:ph="main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9AC6DDA3-8785-4C63-A2AB-457D8CC56D19}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220305T011126Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6e177d8-b3a9-48da-8ead-7c379c5dff09"
+    - ID: "b1ece12f-b2c9-44e6-92a3-c5dfd6514b59"
+      Hint: Menu Title
+      Value: MVP Blogs
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220305T183217Z

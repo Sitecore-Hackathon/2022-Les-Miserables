@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Mvp.Foundation.Search.Shared</RootNamespace>
+    <AssemblyName>Mvp.Foundation.Search</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\FeaturePanel.cs" />
+    <Compile Remove="Models\FeaturePanelItem.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Core" />
+    <PackageReference Include="Azure.Search.Documents" />
+    <PackageReference Include="Azure.Storage.Blobs" />
+  </ItemGroup>
+
+</Project>

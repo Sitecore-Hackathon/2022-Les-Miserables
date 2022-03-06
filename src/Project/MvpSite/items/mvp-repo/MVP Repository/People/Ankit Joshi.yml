@@ -1,0 +1,46 @@
+﻿---
+ID: "2e773968-f813-45da-8f10-95194772db53"
+Parent: "64f31e3a-2040-4e69-b9a7-6830cbe669d2"
+Template: "ad9c7837-8660-4360-ba2b-7addf4163685"
+Path: /sitecore/content/MvpSite/MVP Repository/People/Ankit Joshi
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "022de4c6-82cf-437c-9424-2fddf1a94f68"
+      Hint: First Name
+      Value: Ankit
+    - ID: "046fb914-f54f-4e3a-85e8-8ea5e3b7db7f"
+      Hint: Country
+      Value: "{A84C876E-FB9F-405E-A54B-E1F5F5101B8E}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220305T202202Z
+    - ID: "5abccf54-b9a1-4c33-91a4-473280644299"
+      Hint: Introduction
+      Value: |
+        <span style="background-color: #ffffff; color: #333a42;">Honored to have been awarded&nbsp;</span><a href="https://mvp.sitecore.com/Directory?fc_personyear=2022" style="color: #426f86; background-color: #ffffff; margin: 0px; padding: 0px; border: 0px;">Sitecore MVP 2022</a><span style="background-color: #ffffff; color: #333a42;">&nbsp;under&nbsp;</span><span style="background-color: #ffffff; margin: 0px; padding: 0px; border: 0px; color: #333a42;">Technology</span><span style="background-color: #ffffff; color: #333a42;">&nbsp;category, 5th time in a row! Thanks&nbsp;</span><a href="https://www.sitecore.com/" style="color: #426f86; background-color: #ffffff; margin: 0px; padding: 0px; border: 0px;">Sitecore</a><span style="background-color: #ffffff; color: #333a42;">&nbsp;for this incredible recognition and appreciating the community contributions made last year.</span>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cbba49a3-9e7f-4050-ba29-7d07d005dbab"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bd4ae4ef-b422-4293-8b08-36a7f86b0f19"
+      Hint: BlogPost
+      Value: "1=https%3A%2F%2Fankitjoshi2409.wordpress.com%2F2022%2F01%2F31%2Fcontent-hub-dam-enterprise-mock-training-summary%2F&2=https%3A%2F%2Fankitjoshi2409.wordpress.com%2F2021%2F11%2F26%2Fsitecore-content-hub-for-administrators-features-walkthrough%2F&3=https%3A%2F%2Fankitjoshi2409.wordpress.com%2F2021%2F11%2F10%2Fcontent-hub-dam-professional-mock-training-summary%2F&4=https%3A%2F%2Fankitjoshi2409.wordpress.com%2F2021%2F08%2F08%2Fsending-email-with-customized-email-body-using-sitecore-forms%2F&5=https%3A%2F%2Fankitjoshi2409.wordpress.com%2F2021%2F05%2F29%2Finstall-items-to-custom-location-using-sxa-scaffolding-scripts%2F&6=https%3A%2F%2Fankitjoshi2409.wordpress.com%2F2021%2F04%2F18%2Fsitecore-boxever-training%2F&7=https%3A%2F%2Fankitjoshi2409.wordpress.com%2F2021%2F01%2F30%2Fsitecore-mvp-2021%2F&8=https%3A%2F%2Fankitjoshi2409.wordpress.com%2F2020%2F11%2F28%2Fsetting-up-sitecore-lighthouse-demo-like-a-pro%2F&9=https%3A%2F%2Fankitjoshi2409.wordpress.com%2F2020%2F11%2F13%2Fsitecore-horizon-10-installation-and-process-failure-error-fix%2F&10=https%3A%2F%2Fankitjoshi2409.wordpress.com%2F2020%2F11%2F05%2Fsitecore-10-0-installation-errors-and-fix%2F&11=https%3A%2F%2Fankitjoshi2409.wordpress.com%2F2020%2F11%2F04%2Ffixed-installation-error-with-sitecore-xdb-collection-database-sqlshardingdeploymenttool-exe-returned-a-non-zero-exit-code%2F&12=https%3A%2F%2Fankitjoshi2409.wordpress.com%2F2020%2F10%2F31%2Finstalling-sitecore-horizon-9-3-in-a-custom-location%2F"
+    - ID: "c0b5d514-19c3-430e-9a5a-42763211573d"
+      Hint: Last Name
+      Value: Joshi
+    - ID: "c5cb665e-d9d7-4130-8694-8cf34380f2ca"
+      Hint: Awards
+      Value: |
+        {98D10BF9-17BC-469A-AB7A-201566E0858D}
+        {40F71464-12F2-4226-963B-36A026592340}
+        {89A17C97-A2B3-447B-B3EE-9975BF3CDE49}
+        {D1F30097-D9A0-42C3-90EB-FFF1FF72F994}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220305T202856Z

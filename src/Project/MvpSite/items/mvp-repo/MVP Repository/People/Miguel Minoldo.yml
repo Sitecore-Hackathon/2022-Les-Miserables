@@ -1,0 +1,44 @@
+﻿---
+ID: "6a4f67b0-e635-4648-b07b-203b8bd767af"
+Parent: "64f31e3a-2040-4e69-b9a7-6830cbe669d2"
+Template: "ad9c7837-8660-4360-ba2b-7addf4163685"
+Path: /sitecore/content/MvpSite/MVP Repository/People/Miguel Minoldo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "022de4c6-82cf-437c-9424-2fddf1a94f68"
+      Hint: First Name
+      Value: Miguel
+    - ID: "046fb914-f54f-4e3a-85e8-8ea5e3b7db7f"
+      Hint: Country
+      Value: "{5EC6F53E-C686-49BF-8B31-666B4A783886}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220305T112642Z
+    - ID: "5abccf54-b9a1-4c33-91a4-473280644299"
+      Hint: Introduction
+      Value: Yet another MVP
+    - ID: "8561a65d-741e-4ead-985e-ea1880e196a9"
+      Hint: Email
+      Value: miguel.minoldo@valtech.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e34d610-30a6-4be0-ac4d-31cf7511d764"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bd4ae4ef-b422-4293-8b08-36a7f86b0f19"
+      Hint: BlogPost
+      Value: "1=https%3A%2F%2Fmiguelminoldo.fr%2F2022%2F02%2F24%2Fcommerce-solution-with-vercel-nextjs-commerce-template-sitecore-ordercloud-part2%2F&2=https%3A%2F%2Fmiguelminoldo.fr%2F2022%2F02%2F15%2Fcommerce-solution-with-vercel-nextjs-commerce-template-sitecore-ordercloud-part1%2F&3=https%3A%2F%2Fmiguelminoldo.fr%2F2021%2F10%2F22%2Fsitecore-jss-next-incremental-site-regeneration%2F&4=https%3A%2F%2Fmiguelminoldo.fr%2F2021%2F10%2F18%2Fdeploying-sitecore-jss-next-vercel%2F&5=https%3A%2F%2Fmiguelminoldo.fr%2F2021%2F10%2F04%2Fsitecore-moosend-campaigns-automation-designer-forms%2F&6=https%3A%2F%2Fmiguelminoldo.fr%2F2021%2F10%2F01%2Fsitecore-moosend-mailing-lists-custom-fields-api%2F&7=https%3A%2F%2Fmiguelminoldo.fr%2F2021%2F09%2F28%2Fa-first-look-at-moosend%2F&8=https%3A%2F%2Fmiguelminoldo.fr%2F2021%2F03%2F23%2Fsitecore-publishing-notifications-ms-teams%2F&9=https%3A%2F%2Fmiguelminoldo.fr%2F2021%2F03%2F09%2Fsitecore-smart-translation-tool-spe-azure-cognitive%2F&10=https%3A%2F%2Fmiguelminoldo.fr%2F2021%2F02%2F23%2Fsitecore-media-optimization-azure-functions-blob%2F&11=https%3A%2F%2Fmiguelminoldo.fr%2F2021%2F02%2F22%2Fenable-azure-blob-storage-sitecore-9-3%2F&12=https%3A%2F%2Fmiguelminoldo.fr%2F2021%2F02%2F14%2Fsitecore-smart-cropping-azure-3%2F&13=https%3A%2F%2Fmiguelminoldo.fr%2F2021%2F02%2F11%2Fsitecore-smart-cropping-azure-2%2F&14=https%3A%2F%2Fmiguelminoldo.fr%2F2021%2F02%2F10%2Fsitecore-smart-cropping-azure-1%2F&15=https%3A%2F%2Fmiguelminoldo.fr%2F2021%2F01%2F28%2Fremote-debugging-sitecore-azure-webapps%2F&16=https%3A%2F%2Fmiguelminoldo.fr%2F2020%2F11%2F30%2Fsitecore-server-side-performance-tweaks-tips-and-quick-wins%2F&17=https%3A%2F%2Fmiguelminoldo.fr%2F2020%2F11%2F20%2Ftroubleshooting-performance-on-your-containerized-sitecore-instances-with-dottrace-dotmemory-and-perfview%2F&18=https%3A%2F%2Fmiguelminoldo.fr%2F2020%2F11%2F17%2Fredis-sitecore-cache%2F&19=https%3A%2F%2Fmiguelminoldo.fr%2F2020%2F11%2F15%2Ftrying-sitecore-lighthouse-demo%2F&20=https%3A%2F%2Fmiguelminoldo.fr%2F2020%2F11%2F13%2Fsitecore-9-x-upgrade-and-dynamic-placeholders%2F&21=https%3A%2F%2Fmiguelminoldo.fr%2F2020%2F11%2F12%2Fquick-load-test-with-jmeter-blazemeter-that-crawls-the-sitemap-xml%2F&22=https%3A%2F%2Fmiguelminoldo.fr%2F2020%2F11%2F12%2Fsitecore-9-upgrade-query-datasources%2F"
+    - ID: "c0b5d514-19c3-430e-9a5a-42763211573d"
+      Hint: Last Name
+      Value: Minoldo
+    - ID: "c5cb665e-d9d7-4130-8694-8cf34380f2ca"
+      Hint: Awards
+      Value: "{98D10BF9-17BC-469A-AB7A-201566E0858D}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220305T202136Z

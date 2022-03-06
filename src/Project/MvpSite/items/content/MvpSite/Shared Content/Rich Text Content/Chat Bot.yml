@@ -1,0 +1,26 @@
+﻿---
+ID: "b9d95662-314c-4c95-b73b-9bfcd0be24a8"
+Parent: "b9a0ea97-db6c-463e-b290-b823a20850f2"
+Template: "e55a415d-4a75-40d2-8145-6cc79a4ed1e3"
+Path: /sitecore/content/MvpSite/Shared Content/Rich Text Content/Chat Bot
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220305T022509Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e8b6b68-3986-47ef-b77d-6ee271109803"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9218843-78e1-418d-9b0d-7c511ca15f82"
+      Hint: EmbedCode
+      Value: "<iframe src='https://webchat.botframework.com/embed/sitecorehackathon2022-bot?s=WwOuylQSHh4.WlQtuU8XpLy2iLW4O3G9-WAAsT7sVjnc2d70Ir7paRI'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220305T022718Z

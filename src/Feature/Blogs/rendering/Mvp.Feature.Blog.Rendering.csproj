@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Mvp.Feature.Blog</AssemblyName>
+    <RootNamespace>Mvp.Feature.Blog</RootNamespace>
+	<AddRazorSupportForMvc>true</AddRazorSupportForMvc>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Core" />
+    <PackageReference Include="Azure.Search.Documents" />
+    <PackageReference Include="Sitecore.AspNet.RenderingEngine" />
+    <PackageReference Include="Sitecore.LayoutService.Client" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Foundation\Search\shared\Mvp.Foundation.Search.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
