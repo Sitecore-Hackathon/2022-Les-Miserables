@@ -85,7 +85,6 @@ Note that the up.ps1 script now automatically detects:
 
 ## Usage instructions
 ⟹ ![Documentation](docs/Extend%20MVP%20Site%20-%20MVP%20Blog%20Search%20Documentation.docx)
-https://github.com/Sitecore-Hackathon/2022-Les-Miserables/blob/main/docs/Extend%20MVP%20Site%20-%20MVP%20Blog%20Search%20Documentation.docx
 
 
 
