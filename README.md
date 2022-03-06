@@ -1,27 +1,45 @@
-[01:28] Miguel Minoldo
-![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
-# Sitecore Hackathon 2022- MUST READ: **[Submission requirements](SUBMISSION_REQUIREMENTS.md)**
-- [Entry form template](ENTRYFORM.md)
-- [Starter kit instructions](STARTERKIT_INSTRUCTIONS.md)### ⟹
-
-# Team Les Miserable
-
-- Miguel Minoldo
-- Masoud Ahmadi
-- Ehsan Aslani
+# Hackathon Submission Entry form
 
 
-# 💗 Contributions
 
-MVP Site is extended to include search feature in the MVP's publications. Users are able to search the contents of the articles published by MVPs using Azure Cognitive Search
+## Team name
+⟹ Les Miserables
 
-# ✋ PreRequisites
+## Category
+⟹ Extend MVP Site
+
+## Description
+⟹ Write a clear description of your hackathon entry.  
+
+  - To add a search feature to MVP site for searching the publications and blogs of MVPs
+  - The problem to be solved was getting the content of the blogs and extracting the key phrases and searchable content from Html pages of the blogs
+    - By making use of Azure Cognitive Search and AI enrichments reading html blobs from an Azure Storage Account
+
+_You can alternately paste a [link here](#docs) to a document within this repo containing the description._
+
+## Video link
+
+⟹ #https://youtu.be/OL8gBH3tWHA
+
+
+
+## Pre-requisites and Dependencies
+
+⟹ Does your module rely on other Sitecore modules or frameworks?
+
+- Sitecore Rendering Host
+- Azure Cognitive Search Service
+- Azure Blob Storage
+
+Pre-Requisites:
+
 - [.NET Core (>= v 3.1) and .NET Framework 4.8](https://dotnet.microsoft.com/download)
 - [MKCert](https://github.com/FiloSottile/mkcert)
 - Approx 40gb HD space
 - [Okta Developer Account](https://developer.okta.com/signup/)
 
-# 💻 Initial Setup
+
+## Installation instructions
 
 1. Before you can run the solution, you will need to prepare the following
    for the Sitecore container environment:
@@ -67,5 +85,24 @@ Note that the up.ps1 script now automatically detects:
 
 5. Wait for the startup script to open browser tabs for the rendered site
    and Sitecore Launchpad.
+
+
+## Usage instructions
+⟹ Provide documentation about your module, how do the users use your module, where are things located, what do the icons mean, are there any secret shortcuts etc.
+
+Include screenshots where necessary. You can add images to the `./images` folder and then link to them from your documentation:
+
+![Hackathon Logo](docs/images/hackathon.png?raw=true "Hackathon Logo")
+
+You can embed images of different formats too:
+
+![Deal With It](docs/images/deal-with-it.gif?raw=true "Deal With It")
+
+And you can embed external images too:
+
+![Random](https://thiscatdoesnotexist.com/)
+
+
+
 
 
