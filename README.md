@@ -13,7 +13,7 @@
   - The problem to be solved was getting the content of the blogs and extracting the key phrases and searchable content from Html pages of the blogs
     - By making use of Azure Cognitive Search and AI enrichments reading html blobs from an Azure Storage Account
 
-_You can alternately paste a [link here](#docs) to a document within this repo containing the description._
+_![Documentation](docs/Extend%20MVP%20Site%20-%20MVP%20Blog%20Search%20Documentation.docx)
 
 ## Video link
 
