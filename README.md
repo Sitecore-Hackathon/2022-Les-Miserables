@@ -84,7 +84,7 @@ Note that the up.ps1 script now automatically detects:
 
 
 ## Usage instructions
-⟹ ![Documentation](blob/main/docs/Extend%20MVP%20Site%20-%20MVP%20Blog%20Search%20Documentation.docx")
+⟹ ![Documentation](docs/Extend%20MVP%20Site%20-%20MVP%20Blog%20Search%20Documentation.docx")
 
 
 
